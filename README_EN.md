@@ -1,6 +1,6 @@
 # Bocha Agent Skills
 
-[![Bocha API](https://img.shields.io/badge/API-Bocha-blue)](https://api.bocha.cn)
+[![Bocha API](https://img.shields.io/badge/API-Bocha-blue)](https://open.bocha.cn)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 English | [简体中文](README.md)
@@ -25,7 +25,7 @@ These skills are predefined tool instructions (usually written in `SKILL.md` for
 
 ## 🛠️ How to Use
 
-1. **Obtain an API Key**: You need a `BOCHA_API_KEY` to use these skills. Get yours at the [Bocha Developer Platform](https://api.bocha.cn).
+1. **Obtain an API Key**: You need a `BOCHA_API_KEY` to use these skills. Get yours at the [Bocha Open Platform](https://open.bocha.cn).
 2. **Import the Skill**: Copy the content of the `SKILL.md` file from the desired skill folder and paste it into your agent's instruction/tool configuration.
 3. **Configure Environment**: Ensure your agent runtime has the `BOCHA_API_KEY` configured in its environment variables.
 

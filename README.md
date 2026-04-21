@@ -1,6 +1,6 @@
-# Bocha Agent Skills (博查智能体技能库)
+# Bocha Skills 博查技能库
 
-[![Bocha API](https://img.shields.io/badge/API-Bocha-blue)](https://api.bocha.cn)
+[![Bocha API](https://img.shields.io/badge/API-Bocha-blue)](https://open.bocha.cn)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 [English](README_EN.md) | 简体中文
@@ -25,7 +25,7 @@
 
 ## 🛠️ 如何使用
 
-1. **获取 API Key**: 你需要一个 `BOCHA_API_KEY` 才能使用这些技能。请前往 [博查开发者平台](https://api.bocha.cn) 获取。
+1. **获取 API Key**: 你需要一个 `BOCHA_API_KEY` 才能使用这些技能。请前往 [博查开放平台](https://open.bocha.cn) 获取。
 2. **导入技能**: 复制你所需技能文件夹中的 `SKILL.md` 内容，并将其粘贴到你的智能体指令/工具配置中。
 3. **配置环境**: 确保你的智能体运行环境中已配置 `BOCHA_API_KEY` 环境变量。
 
