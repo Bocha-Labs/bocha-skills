@@ -1,7 +1,7 @@
 # Bocha Skills
 
 [![Bocha API](https://img.shields.io/badge/API-Bocha-blue)](https://open.bocha.cn)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 English | [简体中文](README.md)
 
@@ -36,5 +36,5 @@ These skills include highly optimized bilingual (English/Chinese) system prompts
 We highly encourage community contributions! Whether you have suggestions for existing skills or want to propose new ones, feel free to open an Issue or submit a Pull Request.
 
 ## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+ 
+ This project is licensed under the [Apache License 2.0](LICENSE).

@@ -1,7 +1,7 @@
 # Bocha Skills 博查技能库
 
 [![Bocha API](https://img.shields.io/badge/API-Bocha-blue)](https://open.bocha.cn)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 [English](README_EN.md) | 简体中文
 
@@ -36,5 +36,5 @@
 如果你对现有技能有任何优化建议，或是希望贡献新的技能，欢迎随时提交 Issue 或 Pull Request！
 
 ## 📄 开源协议
-
-本项目基于 [MIT License](LICENSE) 协议开源。
+ 
+ 本项目基于 [Apache License 2.0](LICENSE) 协议开源。
